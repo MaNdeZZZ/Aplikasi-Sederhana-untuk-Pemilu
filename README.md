@@ -1,6 +1,6 @@
 # Aplikasi-Sederhana-untuk-Pemilu
 
-Deskripsi: Aplikasi digunakan untuk melakukan pemilihan umum calon legislatif dan partai tertentu. Pengguna aplikasi ini adalah pemilih dan juga petugas kpu.
+Aplikasi digunakan untuk melakukan pemilihan umum calon legislatif dan partai tertentu. Pengguna aplikasi ini adalah pemilih dan juga petugas kpu.
 Spesifikasi:
 1. Pengguna bisa menambahkan, mengubah (edit), dan juga menghapus data calon dan pemilih.
 2. Pemilih bisa melakukan pemilihan pada durasi waktu yang ditentukan saja, di luar itu, hanya bisa melihat daftar calon saja.
